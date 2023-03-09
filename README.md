@@ -18,4 +18,4 @@
 ## Contacto
 
 - GitHub [DanielBustillosVillar](https://github.com/DanielBustillosVillar)
-- GitHub [Daniel Bustillos Villar](https://www.linkedin.com/in/daniel-bustillos-marketingydesarrolloweb/)
+- Linkedin [Daniel Bustillos Villar](https://www.linkedin.com/in/daniel-bustillos-marketingydesarrolloweb/)
